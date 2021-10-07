@@ -1,3 +1,6 @@
+# Link 
+Original repo https://github.com/makerdao/dss-deploy, for fetching and merge change add new remote with command git remote add maker https://github.com/makerdao/dss-deploy.
+
 # Multi Collateral Dai Deployment
 
 This repository contains a smart contract which deploys the core `dss` contracts and sets up the necessary authorisations between them.
